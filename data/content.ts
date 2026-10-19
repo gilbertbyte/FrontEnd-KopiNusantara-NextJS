@@ -72,6 +72,6 @@ export const faqs: FaqItem[] = [
 ];
 
 export const identitas = {
-    nama: "Nama Lengkap Kamu",
-    nim: "123456789"
+    nama: "Gilbert Imanuel Susanto",
+    nim: "535250087"
 };

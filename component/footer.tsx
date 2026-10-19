@@ -18,7 +18,7 @@ export default function Footer() {
                     <p>Setiap hari, Pukul 08.00 - 21.00 WIB</p>
                 </div>
             </div>
-            <p className="copyright">&copy; 2026 Kopi Nusantara &middot; {identitas.nama} &middot; NIM {identitas.nim}</p>
+            <p className="copyright">&copy; 2026 Kopi Nusantara</p>
         </footer>
     );
 }
